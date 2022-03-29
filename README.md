@@ -5,8 +5,8 @@ privacy to the blockchain, and for which I wrote [Firo Client](https://github.co
 a modern graphical interface for our blockchain.
 
 In my recent projects I've extensively used C++, Rust, and JS/TypeScript, and have significant past
-experience in Python, Solidity, Ruby, and C. I've used all the latest and greatest frameworks as they've
-gained and lost popularity, and am always ready for something new.
+experience in Python, Solidity, circom, Ruby, and C. I've used all the latest and greatest frameworks
+as they've gained and lost popularity, and am always ready for something new.
 
 - [Telegram](https://t.me/sproxet)
 - [GitHub](https://github.com/sproxet)
