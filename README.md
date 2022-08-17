@@ -10,5 +10,3 @@ as they've gained and lost popularity, and am always ready for something new.
 
 - [Telegram](https://t.me/sproxet)
 - [GitHub](https://github.com/sproxet)
-- [email](mailto:me@sproxet.dev) (me@sproxet.dev)
-- [PGP key](https://sproxet.dev/key.asc)
