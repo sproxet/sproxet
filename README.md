@@ -8,5 +8,4 @@ In my recent projects I've extensively used C++, Rust, circom, Solidity, and JS/
 significant past experience in Python, Ruby, and C. I've used all the latest and greatest frameworks
 as they've gained and lost popularity, and am always ready for something new.
 
-- [Telegram](https://t.me/sproxet)
-- [GitHub](https://github.com/sproxet)
+You can contact me at [@sproxet](https://t.me/sproxet) on Telegram.
